@@ -9,3 +9,5 @@ to do
 bpe
 tonal interval 
 rlhf
+---
+compound linear
